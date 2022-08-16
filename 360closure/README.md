@@ -14,4 +14,4 @@
 ### 踩雷
 opencv-python==4.2.0.34 此版本編exe較穩定(2022/08/14)
 
-#### 感謝[25ttttt]([https://pages.github.com/](https://github.com/25ttttt))提供想法
+#### 感謝 [25ttttt](https://github.com/25ttttt) 提供想法
