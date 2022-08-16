@@ -3,7 +3,7 @@
 datapng可關360殺毒、360安全衛士、火絨，缺什麼自己增加
 關閉防毒
 有administrator權限(需要控制滑鼠)與opencv就能關
-win10編exe可正常執行，server 2012要解決環境變數問題，截圖拉回來定位比較實際，其他作業系統沒測過
+win10編exe可正常執行，其他windows系統要解決環境問題，截圖拉回來定位比較實際
 '''
 import cv2
 import pyautogui
