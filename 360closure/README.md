@@ -11,10 +11,7 @@
 ### 需求
 需有administrator權限，win10環境在包成exe後可直接執行，如有其他想關防毒，準備icon、確認圖片轉base64更新datapng即可。
 
-
 ### 踩雷
 opencv-python==4.2.0.34 此版本編exe較穩定(2022/08/14)
-opencv包成exe目前測試只有win10可正常執行，非win10 windows環境想關防毒又不想解決目標環境問題，可截圖後拉回做圖片定位後
-
 
 #### 感謝25t提供想法
